@@ -1,4 +1,4 @@
-# Kotlinx-UUID-serializer
+# Kotlinx-UUID-Serializer
 [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) serialization implementation using the [Kotlinx](https://github.com/Kotlin/kotlinx.serialization) serialization library.
 
 ### Introduction:
